@@ -2,7 +2,7 @@
 
 # My Python Learning Journey 🐍
 
-Hi! I’m [Your Name], and I’m learning Python step by step.  
+Hi! I’m [Tenugu Parthasaradhi], and I’m learning Python step by step.  
 This repository will track my **daily progress**, projects, and exercises.
 
 ---
