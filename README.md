@@ -1,36 +1,63 @@
-# python-learning-journey  
+ # 🐍 Python Learning Journey
 
-# My Python Learning Journey 🐍
-
-Hi! I’m Tenugu Parthasaradhi, and I’m learning Python step by step.  
-This repository will track my **daily progress**, projects, and exercises.
+Hi! I’m "Tenugu Parthasaradhi", and this repository documents my journey of learning **Python from basics to advanced** 🚀  
+It includes concepts, practice exercises, notes, and mini-projects.
 
 ---
 
-## About This Repository
-- Daily Python exercises and mini-projects
-- Notes on concepts I learn
-- Reference links and resources
+## 📌 About This Repository
+- Python concepts (level-wise)
+- Practice programs
+- Notes & references
 
 ---
 
-## Learning Plan
+## 🗂️ Learning Path
 
-### Day 1: Basics
-- Variables, data types
-- Print statements
-- Simple exercises
+### 🟢 Basic Level
+- Python installation & setup  
+- Variables & keywords  
+- Data types (int, float, string, boolean)  
+- Type conversion  
+- Input & output  
+- Operators (arithmetic, comparison, logical)  
+- Conditional statements (if / elif / else)  
+- Loops (for, while)  
+- break, continue, pass  
+- Basic functions  
+- Simple programs & exercises  
 
-### Day 2: Control Flow
-- if / else statements
-- Loops (for, while)
-- Small exercises
+---
 
-### Day 3: Functions
-- Defining functions
-- Parameters & return values
-- Practice examples
+### 🟡 Intermediate Level
+- Strings & string methods  
+- Lists, tuples, sets & dictionaries  
+- List slicing & comprehensions  
+- Nested data structures  
+- Functions (advanced usage)  
+- Lambda functions  
+- File handling (read/write/append)  
+- Exception handling (try/except)  
+- Modules & packages  
+- Object-Oriented Programming (OOP)  
+  - Classes & objects  
+  - Inheritance  
+  - Encapsulation  
+  - Polymorphism  
 
-### Day 4+: Projects & Exercises
-- Mini Python projects
-- Challenges from tutorials or books
+---
+
+### 🔵 Advanced Level (In Progress)
+- Recursion  
+- Generators & iterators  
+- Decorators  
+- map(), filter(), reduce()  
+- Regular expressions  
+- Working with APIs  
+- Virtual environments  
+- Automation scripts  
+- Intro to data analysis  
+- Real-world projects  
+
+
+⭐ This repository will grow as I learn and practice Python.
